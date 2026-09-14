@@ -1,0 +1,14 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\bin\Debug\net10.0\Juego_Crabs.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\bin\Debug\net10.0\Juego_Crabs.deps.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\bin\Debug\net10.0\Juego_Crabs.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\bin\Debug\net10.0\Juego_Crabs.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\bin\Debug\net10.0\Juego_Crabs.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\refint\Juego_Crabs.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\Juego_Crabs.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Juego_Crabs\obj\Debug\net10.0\ref\Juego_Crabs.dll

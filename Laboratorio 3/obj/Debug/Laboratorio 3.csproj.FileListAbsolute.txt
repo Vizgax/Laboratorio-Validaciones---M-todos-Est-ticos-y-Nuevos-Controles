@@ -1,0 +1,10 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\bin\Debug\Laboratorio 3.exe.config
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\bin\Debug\Laboratorio 3.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\bin\Debug\Laboratorio 3.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio_3.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio_3.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio 3.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio 3\obj\Debug\Laboratorio 3.pdb
